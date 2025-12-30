@@ -1,6 +1,5 @@
-- **Task Chosen:** [Task 2: To autonomously navigate a UAV on SITL (Simulation) from one Geo-location location to another using velocity control.]
-- **Status: COMPLETED**
-- **Deadline:** 31 August 2025, 10 AM
+Aim : To autonomously navigate a UAV on SITL (Simulation) from one Geo-location location to another using velocity control.]
+
 
 ---
 
@@ -136,15 +135,6 @@ Start → Connect to drone → Arm → Take off to 10m
 https://drive.google.com/drive/folders/1kWCZckyGEDxMFP7vd0riWqQ5hk-s5Gil?usp=drive_link
 
 ---
-
-### 📈 4. Daily Progress Log
-
-This table tracks the "daily base progress" of the task.
-
-https://docs.google.com/spreadsheets/d/1OjMalRoYzxhhTagEN3u_GZAhLmxkdBlMNCAqeumhvGw/edit?usp=sharing
-
----
-
-### 5. GLIMPSES\
+### 4. GLIMPSES\
 
 https://drive.google.com/drive/folders/1Ppawf8Rsh0m3wO6bP7ITtObRWjktPYZE?usp=drive_link
